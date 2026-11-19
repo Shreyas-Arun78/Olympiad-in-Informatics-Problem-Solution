@@ -17,4 +17,7 @@ Olympiad Problems :
 
 -> https://checklist.spoi.org.in/  (most important)
 
-# see you all at MASSACHUSETTS INSTITUTE OF TECHNOLOGY, Cambridge, USA.    
+### See you all at...
+<a href="https://www.mit.edu/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A31F34&width=650&lines=MASSACHUSETTS+INSTITUTE+OF+TECHNOLOGY;Cambridge%2C+Massachusetts%2C+USA+%F0%9F%8E%93" alt="Typing SVG" />
+</a>
