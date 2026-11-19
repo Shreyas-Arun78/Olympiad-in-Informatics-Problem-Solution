@@ -1,3 +1,4 @@
+using ll = long long;
 struct seg_tree
 {
     ll n;
