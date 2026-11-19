@@ -1,3 +1,4 @@
+using ll = long long;
 struct sqrtDecomposition
 {
     ll n;
